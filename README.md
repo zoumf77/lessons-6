@@ -1,14 +1,22 @@
 入职实习进阶课程：第六节
 1）：了解JDK8提供的日期和时间类
+
 2）：float、double适合科学计算；
+
 3）：BigDecimal适合商业计算，构造函数推荐使用BigDecimal(String)和valueOf(double)，
     把要转换的浮点都转换成字符串，因为如果使用double作为构造函数的参数有不可预知性；
+    
 4）：Math提供各种算数函数；
+
 5）：异常，注意error、检查异常、运行异常的区别。
+
 6）：熟悉文件IO操作；
+
 7）：了解序列化；
+
 8）：BIO和NIO的区别，他们没有孰优孰劣，BIO编程简单，适用于高带宽大数据发送；NIO适用于管理数
 千个连接、数据量小的网络，但编程复杂。
+
 9）：Java正则式的几个概念：字符类型（character classes）、范围、并集、交集、子集、
 预定义的字符类型、量词（Greedy、Reluctant、Possessive）等等。
 
