@@ -1,4 +1,8 @@
 入职实习进阶课程：第六节
+
+本节内容比较多，基本的知识点是1）-8）在第六节课的第一个视频里，9）是BIO-NIO的讲解，大家理解BIO和NIO的同时，可以理解一下socket编程,
+如果觉得理解有难度，可以走马观花看一遍，等以后可以重新看，这都没问题。
+
 1）：了解JDK8提供的日期和时间类
 
 2）：float、double适合科学计算；
@@ -14,11 +18,14 @@
 
 7）：了解序列化；
 
-8）：BIO和NIO的区别，他们没有孰优孰劣，BIO编程简单，适用于高带宽大数据发送；NIO适用于管理数
+8）：Java正则式的几个概念：字符类型（character classes）、范围、并集、交集、子集、
+预定义的字符类型、量词（Greedy、Reluctant、Possessive）等等。
+
+9）：BIO和NIO的区别，他们没有孰优孰劣，BIO编程简单，适用于高带宽大数据发送；NIO适用于管理数
 千个连接、数据量小的网络，但编程复杂。
 
-9）：Java正则式的几个概念：字符类型（character classes）、范围、并集、交集、子集、
-预定义的字符类型、量词（Greedy、Reluctant、Possessive）等等。
+
+
 
 推荐：https://blog.csdn.net/yinwenjie、
     http://tutorials.jenkov.com/java-nio/index.html
